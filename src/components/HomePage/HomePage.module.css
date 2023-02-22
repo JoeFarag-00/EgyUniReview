@@ -1,0 +1,18 @@
+.container {
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 60%;
+  text-align: center;
+  margin: auto;
+}
+
+.hero {
+  margin-bottom: 1em;
+}
+
+.title {
+  margin-bottom: 0.3em;
+}
