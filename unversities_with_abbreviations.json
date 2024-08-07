@@ -1,0 +1,347 @@
+[
+    {
+      "name": "Ain Shams University",
+      "abbreviation": "ASU",
+      "founded": "1950"
+    },
+    {
+      "name": "Al-Azhar University",
+      "abbreviation": "AZU",
+      "founded": "975"
+    },
+    {
+      "name": "Alexandria University",
+      "abbreviation": "ALEXU",
+      "founded": "1938"
+    },
+    {
+      "name": "Assiut University",
+      "abbreviation": "AUN",
+      "founded": "1957"
+    },
+    {
+      "name": "Aswan University",
+      "abbreviation": "ASWU",
+      "founded": "2012"
+    },
+    {
+      "name": "Banha University",
+      "abbreviation": "BU",
+      "founded": "2005"
+    },
+    {
+      "name": "Beni-Suef University",
+      "abbreviation": "BSU",
+      "founded": "2005"
+    },
+    {
+      "name": "Cairo University",
+      "abbreviation": "CU",
+      "founded": "1908"
+    },
+    {
+      "name": "Damanhour University",
+      "abbreviation": "DAU",
+      "founded": "2010"
+    },
+    {
+      "name": "Damietta University",
+      "abbreviation": "DU",
+      "founded": "2012"
+    },
+    {
+      "name": "Egypt-Japan University of Science and Technology",
+      "abbreviation": "E-JUST",
+      "founded": "2010"
+    },
+    {
+      "name": "Fayoum University",
+      "abbreviation": "FU",
+      "founded": "2005"
+    },
+    {
+      "name": "Helwan University",
+      "abbreviation": "HU",
+      "founded": "1975"
+    },
+    {
+      "name": "Kafrelsheikh University",
+      "abbreviation": "KFS",
+      "founded": "2006"
+    },
+    {
+      "name": "Luxor University",
+      "abbreviation": "LU",
+      "founded": "2019"
+    },
+    {
+      "name": "Mansoura University",
+      "abbreviation": "MANS",
+      "founded": "1972"
+    },
+    {
+      "name": "Military Technical College",
+      "abbreviation": "MTC",
+      "founded": "1957"
+    },
+    {
+      "name": "Minia University",
+      "abbreviation": "-",
+      "founded": "1976"
+    },
+    {
+      "name": "Minufiya University",
+      "abbreviation": "-",
+      "founded": "1976"
+    },
+    {
+      "name": "New Valley University",
+      "abbreviation": "NVU",
+      "founded": "2018"
+    },
+    {
+      "name": "Port Said University",
+      "abbreviation": "PSU",
+      "founded": "2010"
+    },
+    {
+      "name": "Sadat Academy for Management Sciences",
+      "abbreviation": "SAMS",
+      "founded": "1981"
+    },
+    {
+      "name": "Sohag University",
+      "abbreviation": "SO",
+      "founded": "2006"
+    },
+    {
+      "name": "South Valley University",
+      "abbreviation": "SVU",
+      "founded": "1958"
+    },
+    {
+      "name": "Suez Canal University",
+      "abbreviation": "SCU",
+      "founded": "1964"
+    },
+    {
+      "name": "Suez University",
+      "abbreviation": "SU",
+      "founded": "2012"
+    },
+    {
+      "name": "Tanta University",
+      "abbreviation": "TU",
+      "founded": "1972"
+    },
+    {
+      "name": "University of Sadat City",
+      "abbreviation": "USC",
+      "founded": "2013"
+    },
+    {
+      "name": "Zagazig University",
+      "abbreviation": "ZU",
+      "founded": "1974"
+    },
+    {
+      "name": "Zewail City of Science, Technology and Innovation",
+      "abbreviation": "ZC",
+      "founded": "2011"
+    },
+    {
+      "name": "King Salman International University",
+      "abbreviation": "KSIU",
+      "founded": "2020"
+    },
+    {
+      "name": "Galala University",
+      "abbreviation": "GU",
+      "founded": "2020"
+    },
+    {
+      "name": "Alamein International University",
+      "abbreviation": "AIU",
+      "founded": "2020"
+    },
+    {
+      "name": "New Mansoura University",
+      "abbreviation": "NMU",
+      "founded": "2021"
+    },
+    {
+      "name": "Egypt University Of Informatics",
+      "abbreviation": "EUI",
+      "founded": "2021"
+    },
+    {
+      "name": "Nile University",
+      "abbreviation": "NU",
+      "founded": "2006"
+    },
+    {
+      "name": "German International University",
+      "abbreviation": "GIU",
+      "founded": "2018"
+    },
+    {
+      "name": "German University in Cairo",
+      "abbreviation": "GUC",
+      "founded": "2003"
+    },
+    {
+      "name": "Ahram Canadian University",
+      "abbreviation": "ACU",
+      "founded": "2005"
+    },
+    {
+      "name": "The American University in Cairo",
+      "abbreviation": "AUC",
+      "founded": "1919"
+    },
+    {
+      "name": "Arab Academy for Science, Technology and Maritime Transport",
+      "abbreviation": "AASTMT",
+      "founded": "1972 - as an Arab League Organization"
+    },
+    {
+      "name": "Arab Open University",
+      "abbreviation": "AOU",
+      "founded": "2002"
+    },
+    {
+      "name": "British University in Egypt",
+      "abbreviation": "BUE",
+      "founded": "2005"
+    },
+    {
+      "name": "Canadian International College",
+      "abbreviation": "CIC",
+      "founded": "2004"
+    },
+    {
+      "name": "Delta University for Science and Technology",
+      "abbreviation": "DUST",
+      "founded": "2006"
+    },
+    {
+      "name": "Egyptian Chinese University",
+      "abbreviation": "ECU",
+      "founded": "2016"
+    },
+    {
+      "name": "Egyptian e-Learning University",
+      "abbreviation": "EELU",
+      "founded": "2008"
+    },
+    {
+      "name": "Egyptian Russian University",
+      "abbreviation": "ERU",
+      "founded": "2006"
+    },
+    {
+      "name": "European Universities in Egypt (University of London (incl. LSE), University of Central Lancashire, University of East London)",
+      "abbreviation": "EUE",
+      "founded": "2021 (2021, 2021, 2024)"
+    },
+    {
+      "name": "Future University in Egypt",
+      "abbreviation": "FUE",
+      "founded": "2006"
+    },
+    {
+      "name": "Heliopolis University",
+      "abbreviation": "HU",
+      "founded": "2012"
+    },
+    {
+      "name": "Misr International University",
+      "abbreviation": "MIU",
+      "founded": "1996"
+    },
+    {
+      "name": "Misr University for Science and Technology",
+      "abbreviation": "MUST",
+      "founded": "1996"
+    },
+    {
+      "name": "Hertfordshire University In Egypt",
+      "abbreviation": "UH",
+      "founded": "2019"
+    },
+    {
+      "name": "Modern Sciences and Arts University",
+      "abbreviation": "MSA",
+      "founded": "1996"
+    },
+    {
+      "name": "MTI University",
+      "abbreviation": "MTI",
+      "founded": "2004"
+    },
+    {
+      "name": "Nahda University in Beni Suef",
+      "abbreviation": "NUB",
+      "founded": "2006"
+    },
+    {
+      "name": "October 6 University",
+      "abbreviation": "O6U",
+      "founded": "1996"
+    },
+    {
+      "name": "Pharos University in Alexandria",
+      "abbreviation": "PUA",
+      "founded": "2007"
+    },
+    {
+      "name": "Sinai University",
+      "abbreviation": "SU",
+      "founded": "2006"
+    },
+    {
+      "name": "French University of Egypt",
+      "abbreviation": "UFE",
+      "founded": "2002"
+    },
+    {
+      "name": "Badr University in Cairo",
+      "abbreviation": "BUC",
+      "founded": "2014"
+    },
+    {
+      "name": "Badr University in Assiut",
+      "abbreviation": "BUA",
+      "founded": "2021"
+    },
+    {
+      "name": "New Giza University",
+      "abbreviation": "NGU",
+      "founded": "2016"
+    },
+    {
+      "name": "El Shorouk Academy",
+      "abbreviation": "SHA",
+      "founded": "1995"
+    },
+    {
+      "name": "Toronto Metropolitan University Cairo",
+      "abbreviation": "TMU",
+      "founded": "2022"
+    },
+    {
+      "name": "University of Prince Edward Island",
+      "abbreviation": "UPEI",
+      "founded": "2018"
+    },
+    {
+      "name": "Ecole Supérieure Libre des Sciences Commerciales Appliquées",
+      "abbreviation": "ESLSCA",
+      "founded": "1998 - First MBA class in Egypt"
+    },
+    {
+      "name": "Horus University - Egypt",
+      "abbreviation": "HUE",
+      "founded": "2019"
+    }
+  ]

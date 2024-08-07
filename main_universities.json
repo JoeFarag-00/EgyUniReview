@@ -1,0 +1,639 @@
+[
+    {
+        "name": "Ain Shams University",
+        "location": "Cairo",
+        "type": "Public",
+        "founded": "1950",
+        "url": "https://www.universitiesegypt.com/Ain-Shams-University/about"
+      },
+      {
+        "name": "Al Azhar University",
+        "location": "Cairo",
+        "type": "Public",
+        "founded": "970",
+        "url": "https://www.universitiesegypt.com/al-azhar-university/about"
+      },
+      {
+        "name": "Alexandria University",
+        "location": "Alexandria",
+        "type": "Public",
+        "founded": "1942",
+        "url": "https://www.universitiesegypt.com/alexandria-university/about"
+      },
+      {
+        "name": "Assiut University",
+        "location": "Assiut",
+        "type": "Public",
+        "founded": "1957",
+        "url": "https://www.universitiesegypt.com/assiut-university/about"
+      },
+      {
+        "name": "Aswan University",
+        "location": "Aswan",
+        "type": "Public",
+        "founded": "1974",
+        "url": "https://www.universitiesegypt.com/aswan-university/about"
+      },
+      {
+        "name": "Benha University",
+        "location": "Banha",
+        "type": "Public",
+        "founded": "1976",
+        "url": "https://www.universitiesegypt.com/banha-university/about"
+      },
+      {
+        "name": "Beni Suef University",
+        "location": "Beni Suef",
+        "type": "Public",
+        "founded": "1981",
+        "url": "https://www.universitiesegypt.com/beni-suef-university/about"
+      },
+      {
+        "name": "Cairo University",
+        "location": "Cairo",
+        "type": "Public",
+        "founded": "1908",
+        "url": "https://www.universitiesegypt.com/cairo-university/about"
+      },
+      {
+        "name": "Damanhour University",
+        "location": "Damanhour",
+        "type": "Public",
+        "founded": "2010",
+        "url": "https://www.universitiesegypt.com/damanhour-university/about"
+      },
+      {
+        "name": "Damietta University",
+        "location": "Damietta",
+        "type": "Public",
+        "founded": "2012",
+        "url": "https://www.universitiesegypt.com/damietta-university/about"
+      },
+    {
+      "name": "Egypt Japan University of Science & Technology (EJUST)",
+      "location": "Alexandria",
+      "type": "Public",
+      "founded": "2009",
+      "url": "https://www.universitiesegypt.com/egypt-japan-university-science-technology-ejust/about"
+    },
+    {
+      "name": "El Asher University",
+      "location": "Sharqia",
+      "type": "Public",
+      "founded": "2009",
+      "url": "https://www.universitiesegypt.com/el-asher-university/about"
+    },
+    {
+      "name": "Fayoum University",
+      "location": "Fayoum",
+      "type": "Public",
+      "founded": "2005",
+      "url": "https://www.universitiesegypt.com/fayoum-university/about"
+    },
+    {
+      "name": "Helwan University",
+      "location": "Helwan",
+      "type": "Public",
+      "founded": "1975",
+      "url": "https://www.universitiesegypt.com/helwan-university/about"
+    },
+    {
+      "name": "Kafr El Sheikh University",
+      "location": "Kafr El Sheikh",
+      "type": "Public",
+      "founded": "2006",
+      "url": "https://www.universitiesegypt.com/kafr-el-sheikh-university/about"
+    },
+    {
+      "name": "Luxor University",
+      "location": "Luxor",
+      "type": "Public",
+      "founded": "0",
+      "url": "https://www.universitiesegypt.com/luxor-university/about"
+    },
+    {
+      "name": "Mansoura University",
+      "location": "Mansoura",
+      "type": "Public",
+      "founded": "1972",
+      "url": "https://www.universitiesegypt.com/mansoura-university/about"
+    },
+    {
+      "name": "Menoufia University",
+      "location": "Menoufia",
+      "type": "Public",
+      "founded": "1976",
+      "url": "https://www.universitiesegypt.com/menoufia-university/about"
+    },
+    {
+      "name": "Military Technical College (MTC)",
+      "location": "Cairo",
+      "type": "Public",
+      "founded": "1957",
+      "url": "https://www.universitiesegypt.com/military-technical-college/about"
+    },
+    {
+      "name": "Minia University",
+      "location": "Minia",
+      "type": "Public",
+      "founded": "1976",
+      "url": "https://www.universitiesegypt.com/minia-university/about"
+    },
+    {
+        "name": "New Valley University (NVU)",
+        "location": "New Valley Governorate",
+        "type": "Public",
+        "founded": "2018",
+        "url": "https://www.universitiesegypt.com/new-valley-university-nvu/about"
+      },
+      {
+        "name": "Port Said University",
+        "location": "Port Said",
+        "type": "Public",
+        "founded": "2010",
+        "url": "https://www.universitiesegypt.com/port-said-university/about"
+      },
+      {
+        "name": "Sadat Academy for Management Sciences",
+        "location": "Cairo",
+        "type": "Public",
+        "founded": "1981",
+        "url": "https://www.universitiesegypt.com/sadat-academy-management-sciences/about"
+      },
+      {
+        "name": "Suez University",
+        "location": "Suez",
+        "type": "Public",
+        "founded": "2012",
+        "url": "https://www.universitiesegypt.com/suez-university/about"
+      },
+      {
+        "name": "Sohag University",
+        "location": "Sohag",
+        "type": "Public",
+        "founded": "2008",
+        "url": "https://www.universitiesegypt.com/sohag-university/about"
+      },
+      {
+        "name": "South Valley University",
+        "location": "Qena",
+        "type": "Public",
+        "founded": "1995",
+        "url": "https://www.universitiesegypt.com/south-valley-university/about"
+      },
+      {
+        "name": "Suez Canal University",
+        "location": "Ismailia",
+        "type": "Public",
+        "founded": "1976",
+        "url": "https://www.universitiesegypt.com/suez-canal-university/about"
+      },
+      {
+        "name": "Tanta University",
+        "location": "Tanta",
+        "type": "Public",
+        "founded": "1972",
+        "url": "https://www.universitiesegypt.com/tanta-university/about"
+      },
+      {
+        "name": "University of Sadat City",
+        "location": "Menoufia",
+        "type": "Public",
+        "founded": "2013",
+        "url": "https://www.universitiesegypt.com/university-sadat-city/about"
+      },
+      {
+        "name": "Zagazig University",
+        "location": "Zagazig",
+        "type": "Public",
+        "founded": "1974",
+        "url": "https://www.universitiesegypt.com/zagazig-university/about"
+      },
+      {
+        "name": "Future University in Egypt - FUE",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "2006",
+        "url": "https://www.universitiesegypt.com/future-university-egypt-fue/about"
+      },
+      {
+        "name": "Ahram Canadian University",
+        "location": "6th of October",
+        "type": "Private",
+        "founded": "2005",
+        "url": "https://www.universitiefsegypt.com/ahram-canadian-university/about"
+      },
+      {
+        "name": "American University in Cairo (AUC)",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "1919",
+        "url": "https://www.universitiesegypt.com/american-university-cairo-auc/about"
+      },
+      {
+        "name": "Arab Academy for Science, Technology and Maritime Transport - AAST",
+        "location": "Alexandria",
+        "type": "Private",
+        "founded": "1972",
+        "url": "https://www.universitiesegypt.com/arab-academy-science-technology-maritime-transport-aast/about"
+      },
+      {
+        "name": "Arab Open University (AOU)",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "2003",
+        "url": "https://www.universitiesegypt.com/arab-open-university-aou/about"
+      },
+      {
+        "name": "Badr University in Assuit",
+        "location": "Assiut",
+        "type": "Private",
+        "founded": "0",
+        "url": "https://www.universitiesegypt.com/badr-university-in-assuit/about"
+      },
+      {
+        "name": "Badr University in Cairo",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "2014",
+        "url": "https://www.universitiesegypt.com/badr-university-cairo/about"
+      },
+      {
+        "name": "British University in Egypt - BUE",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "2005",
+        "url": "https://www.universitiesegypt.com/british-university-egypt-bue/about"
+      },
+      {
+        "name": "Canadian International College",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "2004",
+        "url": "https://www.universitiesegypt.com/canadian-international-college-cic/about"
+      },
+      {
+        "name": "Delta University for Science and Technology",
+        "location": "Mansoura",
+        "type": "Private",
+        "founded": "2007",
+        "url": "https://www.universitiesegypt.com/delta-university-science-technology/about"
+      },
+      {
+        "name": "Egypt University of Informatics",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "0",
+        "url": "https://www.universitiesegypt.com/egypt-university-of-informatics/about"
+      },
+      {
+        "name": "Egyptian Chinese University (ECU)",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "2016",
+        "url": "https://www.universitiesegypt.com/egyptian-chinese-university-ecu/about"
+      },
+      {
+        "name": "Egyptian E-learning University",
+        "location": "Giza",
+        "type": "Private",
+        "founded": "2008",
+        "url": "https://www.universitiesegypt.com/egyptian-elearning-university-eelu/about"
+      },
+      {
+        "name": "Egyptian Russian University (ERU)",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "2006",
+        "url": "https://www.universitiesegypt.com/egyptian-russian-university-eru/about"
+      },
+      {
+        "name": "ESLSCA University",
+        "location": "Giza",
+        "type": "Private",
+        "founded": "1998",
+        "url": "https://www.universitiesegypt.com/eslsca-university/about"
+      },
+      {
+        "name": "German University in Cairo (GUC)",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "2002",
+        "url": "https://www.universitiesegypt.com/german-university-cairo-guc/about"
+      },
+      {
+        "name": "Heliopolis University for Sustainable Development",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "2009",
+        "url": "https://www.universitiesegypt.com/heliopolis-university-for-sustainable-development/about"
+      },
+      {
+        "name": "Horus University",
+        "location": "New Damietta",
+        "type": "Private",
+        "founded": "2019",
+        "url": "https://www.universitiesegypt.com/horus-university/about"
+      },
+      {
+        "name": "L'université Senghor À Alexandrie",
+        "location": "Alexandria",
+        "type": "Private",
+        "founded": "1989",
+        "url": "https://www.universitiesegypt.com/L"
+      },
+      {
+        "name": "May University in Cairo",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "2019",
+        "url": "https://www.universitiesegypt.com/may-university-in-cairo/about"
+      },
+      {
+        "name": "Merit University",
+        "location": "Sohag",
+        "type": "Private",
+        "founded": "0",
+        "url": "https://www.universitiesegypt.com/merit-university/about"
+      },
+      {
+        "name": "Misr International University (MIU)",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "1996",
+        "url": "https://www.universitiesegypt.com/misr-international-university-miu/about"
+      },
+      {
+        "name": "Misr University for Science and Technology (MUST)",
+        "location": "6th of October",
+        "type": "Private",
+        "founded": "1996",
+        "url": "https://www.universitiesegypt.com/misr-university-science-technology-must/about"
+      },
+      {
+        "name": "Modern Academy For Engineering & Technology",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "2000",
+        "url": "https://www.universitiesegypt.com/modern-academy-engineering_technology/about"
+      },
+      {
+        "name": "Modern Sciences & Arts University (MSA)",
+        "location": "6th of October",
+        "type": "Private",
+        "founded": "1996",
+        "url": "https://www.universitiesegypt.com/modern-sciences-arts-university-msa/about"
+      },
+      {
+        "name": "Modern University for Technology and Information (MTI)",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "2007",
+        "url": "https://www.universitiesegypt.com/modern-university-technology-information-mti/about"
+      },
+      {
+        "name": "Nahda University in Beni Suef",
+        "location": "Beni Suef",
+        "type": "Private",
+        "founded": "2006",
+        "url": "https://www.universitiesegypt.com/nahda-university-beni-suef-nub/about"
+      },
+      {
+        "name": "New Giza University",
+        "location": "6th of October",
+        "type": "Private",
+        "founded": "2016",
+        "url": "https://www.universitiesegypt.com/new-giza-university/about"
+      },
+      {
+        "name": "Nile University",
+        "location": "6th of October",
+        "type": "Private",
+        "founded": "2006",
+        "url": "https://www.universitiesegypt.com/nile-university-egypt/about"
+      },
+      {
+        "name": "October 6 University",
+        "location": "6th of October",
+        "type": "Private",
+        "founded": "1996",
+        "url": "https://www.universitiesegypt.com/6-october-university-o6u/about"
+      },
+      {
+        "name": "Pharos University in Alexandria",
+        "location": "Alexandria",
+        "type": "Private",
+        "founded": "2006",
+        "url": "https://www.universitiesegypt.com/pharos-university-alexandria/about"
+      },
+      {
+        "name": "Ryerson University Cairo",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "0",
+        "url": "https://www.universitiesegypt.com/ryerson-university-cairo/about"
+      },
+      {
+        "name": "Sinai University",
+        "location": "Sinai",
+        "type": "Private",
+        "founded": "2006",
+        "url": "https://www.universitiesegypt.com/sinai-university/about"
+      },
+      {
+        "name": "Sphinx University",
+        "location": "Assiut",
+        "type": "Private",
+        "founded": "0",
+        "url": "https://www.universitiesegypt.com/sphinx-university/about"
+      },
+      {
+        "name": "The German International University (GIU)",
+        "location": "New Administrative Capital",
+        "type": "Private",
+        "founded": "2018",
+        "url": "https://www.universitiesegypt.com/the-german-international-university-giu/about"
+      },
+      {
+        "name": "Universite Francaise d'Egypte",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "2002",
+        "url": "https://www.universitiesegypt.com/french-university-egypt/about"
+      },
+      {
+        "name": "University of Prince Edward Island (Cairo Campus)",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "0",
+        "url": "https://www.universitiesegypt.com/university-of-prince-edward-island/about"
+      },
+      {
+        "name": "Zewail City of Science and Technology",
+        "location": "6th of October",
+        "type": "Private",
+        "founded": "2010",
+        "url": "https://www.universitiesegypt.com/zewail-city-science-technology/about"
+      },
+      {
+        "name": "AlAlamein International University",
+        "location": "El Alamein city",
+        "type": "National",
+        "founded": "2020",
+        "url": "https://www.universitiesegypt.com/alalamein-international-university/about"
+      },
+      {
+        "name": "Galala University",
+        "location": "Suez",
+        "type": "National",
+        "founded": "2020",
+        "url": "https://www.universitiesegypt.com/galala-university/about"
+      },
+      {
+        "name": "King Salman International University (KSIU)",
+        "location": "Ras Sudr",
+        "type": "National",
+        "founded": "2020",
+        "url": "https://www.universitiesegypt.com/king-salman-international-university-ksiu/about"
+      },
+      {
+        "name": "New Mansoura University",
+        "location": "Mansoura",
+        "type": "National",
+        "founded": "2021",
+        "url": "https://www.universitiesegypt.com/new-mansoura-university/about"
+      },
+      {
+        "name": "Akhbar El Yom Academy",
+        "location": "6th of October",
+        "type": "Private",
+        "founded": "1999",
+        "url": "https://www.universitiesegypt.com/akhbar-el-yom-academy/about"
+      },
+      {
+        "name": "Arab Academy for Management Banking and Financial Sciences",
+        "location": "Giza",
+        "type": "Public",
+        "founded": "1988",
+        "url": "https://www.universitiesegypt.com/arab-academy-management-banking-financial-sciences/about"
+      },
+      {
+        "name": "El Shorouk Academy",
+        "location": "Cairo",
+        "type": "Public",
+        "founded": "1995",
+        "url": "https://www.universitiesegypt.com/el-shorouk-academy/about"
+      },
+      {
+        "name": "Modern Academy in Maadi",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "1993",
+        "url": "https://www.universitiesegypt.com/modern-academy/about"
+      },
+      {
+        "name": "Al Alson Higher Institute",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "1992",
+        "url": "https://www.universitiesegypt.com/al-alson-high-institute/about"
+      },
+      {
+        "name": "Alexandria Higher Institute of Engineering and Technology",
+        "location": "Alexandria",
+        "type": "Private",
+        "founded": "1996",
+        "url": "https://www.universitiesegypt.com/alexandria-higher-institute-engineering_technology/about"
+      },
+      {
+        "name": "Cairo Higher Institute for Engineering, Computer Science & Management",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "1995",
+        "url": "https://www.universitiesegypt.com/cairo-higher-institute-engineering-computer-science-management/about"
+      },
+      {
+        "name": "Culture & Science City",
+        "location": "6th of October / Heliopolis",
+        "type": "Private",
+        "founded": "1994",
+        "url": "https://www.universitiesegypt.com/culture-Science-City/about"
+      },
+      {
+        "name": "Future Academy",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "1993",
+        "url": "https://www.universitiesegypt.com/future-academy/about"
+      },
+      {
+        "name": "Higher Institute for Engineering and Technology in Kafr Elsheikh",
+        "location": "Kafr Elsheikh",
+        "type": "Private",
+        "founded": "2011",
+        "url": "https://www.universitiesegypt.com/higher-institute-engineering-technology-kafr-elsheikh/about"
+      },
+      {
+        "name": "Higher Technological Institute",
+        "location": "Cairo",
+        "type": "Private",
+        "founded": "1988",
+        "url": "https://www.universitiesegypt.com/Higher-technological-institute/about"
+      },
+      {
+        "name": "Institute of Aviation Engineering and Technology",
+        "location": "Giza",
+        "type": "Private",
+        "founded": "1997",
+        "url": "https://www.universitiesegypt.com/Institute-aviation-engineering-technology/about"
+      },
+      {
+        "name": "International Academy for Engineering & Media Sciences",
+        "location": "Giza",
+        "type": "Private",
+        "founded": "2002",
+        "url": "https://www.universitiesegypt.com/international-academy-engineering-media-sciences/about"
+      },
+      {
+        "name": "Mansoura High Institute for Engineering and Technology",
+        "location": "El Mansoura City",
+        "type": "Private",
+        "founded": "2012",
+        "url": "https://www.universitiesegypt.com/mansoura-high-institute-engineering-technology/about"
+      },
+      {
+        "name": "Misr Higher Institute For Engineering And Technology in Mansoura",
+        "location": "Mansoura",
+        "type": "Public",
+        "founded": "2005",
+        "url": "https://www.universitiesegypt.com/misr-higher-institute-engineering-technology-mansoura/about"
+      },
+      {
+        "name": "New Cairo Academy",
+        "location": "New Cairo",
+        "type": "Private",
+        "founded": "2001",
+        "url": "https://www.universitiesegypt.com/new-cairo-academy/about"
+      },
+      {
+        "name": "New Cairo Higher Institute for Administrative and Computer Sciences",
+        "location": "New Cairo City",
+        "type": "Private",
+        "founded": "2002",
+        "url": "https://www.universitiesegypt.com/new-cairo-higher-institute-administrative-computer-sciences-first-settlement/about"
+      },
+      {
+        "name": "Science Valley Academy",
+        "location": "Al Qalyubia",
+        "type": "Public",
+        "founded": "2006",
+        "url": "https://www.universitiesegypt.com/science-valley-academy/about"
+      },
+      {
+        "name": "Thebes Academy",
+        "location": "Cairo",
+        "type": "Public",
+        "founded": "1995",
+        "url": "https://www.universitiesegypt.com/thebes-academy/about"
+      }
+  ]
