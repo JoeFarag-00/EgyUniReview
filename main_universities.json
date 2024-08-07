@@ -635,5 +635,37 @@
         "type": "Public",
         "founded": "1995",
         "url": "https://www.universitiesegypt.com/thebes-academy/about"
+      },
+      {
+        "name": "Hertfordshire University In Egypt",
+        "location": "New Administrative Capital",
+        "type": "public",
+        "founded": "2019",
+        "url": "https://www.gaf.edu.eg/",
+        "abbreviation": "UH"
+      },
+      {
+        "name": "Toronto Metropolitan University Cairo",
+        "location": "Cairo",
+        "type": "public",
+        "founded": "2022",
+        "url": "https://www.torontomu.ca/about/",
+        "abbreviation": "TMU"
+      },
+      {
+        "name": "Horus University - Egypt",
+        "location": "New Damietta",
+        "type": "private",
+        "founded": "2013",
+        "url": "https://new.horus.edu.eg/",
+        "abbreviation": "HUE"
+      },
+      {
+        "name": "European Universities in Egypt (University of London (incl. LSE), University of Central Lancashire, University of East London)",
+        "location": "New Administrative Capital",
+        "type": "private",
+        "founded": "2021, 2024",
+        "url": "https://eue.edu.eg/",
+        "abbreviation": "EUE"
       }
   ]
